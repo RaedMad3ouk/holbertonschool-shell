@@ -1,2 +1,2 @@
 #!/bin/bash
-file -f filenames.lst. /tmp
+cd /tmp/iamafile
